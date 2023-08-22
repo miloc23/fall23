@@ -46,3 +46,8 @@ Course logistics:
     - 3 sections : Back, Butt, Williams
     - all infra shared
         - website, forum, chat, grouping 
+
+Advice:
+    - come to class
+    - plan your time
+    - don't cheat
