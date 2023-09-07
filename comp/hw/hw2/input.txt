@@ -1,0 +1,54 @@
+absolute_value 3 
+absolute_value 6 
+absolute_value 7 
+absolute_value 5 
+absolute_value 3 
+absolute_value 5 
+absolute_value 6 
+absolute_value 2 
+absolute_value 9 
+absolute_value 1 
+absolute_value -2 
+absolute_value -7 
+absolute_value 0 
+absolute_value -9 
+absolute_value -3 
+absolute_value -6 
+absolute_value 0 
+absolute_value -6 
+absolute_value -2 
+absolute_value -6 
+absolute_value 8 
+absolute_value 9 
+absolute_value 0 
+absolute_value -3 
+absolute_value 5 
+absolute_value 2 
+absolute_value -8 
+absolute_value 7 
+absolute_value 6 
+absolute_value 2 
+sum_of_squares 29, 73, 21, 19, 84, 37, 98, 24, 15, 70
+sum_of_squares 13, 26, 91, 80, 56, 73, 62, 70, 96, 81
+sum_of_squares -5, -25, -84, -27, -36, -5, -46, -29, -13, -57
+sum_of_squares -24, -95, -82, -45, -14, -67, -34, -64, -43, -50
+sum_of_squares -87, -76, -88, 3, 54, -32, -76, -39, -26, 94
+sum_of_squares -95, -34, 67, -97, -17, -52, -1, 86, 65, 44
+sum_of_squares 29, 17, 71, 75, 27, 56, -53, -65, 83, -24, -71, 29, -19, -68, -15, -49, -23, -45, 51, 55, -88, 28, 50, 0, -64
+sum_of_squares 87, 56, 43, 91, 27, 65, 59, 36, 32, 51, 37, 28, 75, 7, 74, 21, 58, 95, 29, 37, 35, 93, 18, 28
+sum_of_squares -11, -28, -29, -76, -4, -43, -63, -13, -38, -6, -40, -4, -18, -28, -88, -69, -17, -17, -96, -24, -43, -70, -83, -90, -99, -72, -25, -44
+sum_of_squares -5, -39, -54, -86, -69, -82, -42, -64, -97, -7, -55, -4, -48, -11, -22, -28, -99, -43, -46, -68, -40, -22, -11, -10, -5
+sum_of_squares -61, 78, -20, -44, 22, -8, -82, 24, -62, 0, 52
+sum_of_squares -50, 71, 31, 30, -94, 63, 81, 96, 73, -68, -95, -66, -40, -84
+find_biggest  EVEN 42, 36, 7, 45, 56, 79, 18, 87, 12, 48
+find_biggest  ODD 72, 59, 9, 36, 10, 42, 87, 6, 1, 13
+find_biggest  EVEN -72, -21, -55, -19, -99, -21, -4, -39, -11, -40
+find_biggest  ODD -67, -5, -28, -27, -50, -84, -58, -20, -24, -22
+find_biggest  EVEN -69, -81, -84, -72, 50, -85, -99, -42, -13, -90
+find_biggest  ODD 90, 81, -36, -55, 4, 69, -76, -55, 42, 84
+find_biggest  EVEN 21, 4, -61, 26, -44, -2, 84, -42, 28, -72, -58, -36, -53, 3, -33
+find_biggest  ODD 54, 67, 46, 68, 29, 0, 46, 88, 97, 49, 90, 3, 33, 63, 97, 53, 92, 86, 25, 52, 96, 75, 88, 57, 29
+find_biggest  EVEN -60, -14, -21, -60, -4, -28, -27, -50, -48, -56, -2, -94, -97, -99, -43, -39, -2, -28, -3, 0, -81
+find_biggest  ODD -38, -59, -51, -35, -34, -39, -92, -15, -27, -4, -29, -49, -64, -85, -29, -43, -35, -77, 0, -38, -71, -49, -89, -67, -88, -92, -95, -43, -44, -29, -90, -82
+find_biggest  EVEN 41, -26, -61, 60, 23, 81, 90, 96, -77, -90, 24, -14, -5, -12, 0, -26, -16, 78, -46, -47, -51, 31, 57, -12, 14
+find_biggest  ODD -90, -79, 69, 74, -41, 33, -88, -66, -84, -17, 60, 37, 59, 18, 83, 58, 37, 83, 78, 14, -29, -59
